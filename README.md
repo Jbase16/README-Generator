@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-A project designed to showcase how to create a professional README.md file dynamically using a command-line application.
+This project is designed to showcase how to create a professional README.md file dynamically using a command-line application.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,16 +14,16 @@ A project designed to showcase how to create a professional README.md file dynam
 - [License](#license)
 
 ## Installation
-Clone the repositiry and run npm install to install dependencies.
+To install this project, clone the repository and run npm install to install the necessary dependencies.
 
 ## Usage
 To use, run node index.js in your terminal and follow the prompts.
 
 ## Contributing
-Feel free to cotribute by forking the repository and submitting a pull request. 
+Feel free to contribute by forking the repository and submitting a pull request.
 
 ## Tests
-To test, run npm test and make sure all tests pass before submitting any changes.
+To test, run npm test and make sure all tests pass befor esubmitting any changes.
 
 ## License
 This project is licensed under the MIT license.
