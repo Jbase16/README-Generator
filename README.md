@@ -14,16 +14,16 @@ This project is designed to showcase how to create a professional README.md file
 - [License](#license)
 
 ## Installation
-To install, clone the repository and run npm install to install dependencies.
+To install, clone the repository and run `npm install` to install dependencies.
 
 ## Usage
-To use, run node index.js in your terminal.
+To use, run `node index.js` in your terminal.
 
 ## Contributing
 Feel free to contribute by forking the repository and submitting a pull request.
 
 ## Tests
-To test, run npm test. Make sure all tests pass before submitting changes.
+To test, run `npm test` Make sure all tests pass before submitting changes.
 
 ## License
 This project is licensed under the MIT license.
